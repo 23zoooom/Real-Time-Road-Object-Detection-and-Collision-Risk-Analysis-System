@@ -1,6 +1,9 @@
 # Real-Time-Road-Object-Detection-and-Collision-Risk-Analysis-System
 A real-time collision risk analysis system for front-camera driving video that converts frame-level road object perception into interpretable warning levels, combining object detection, multi-object tracking, region-of-interest (ROI) filtering, and a bounding-box height-based time-to-collision (TTC) proxy.
 
+# Notice
+The dataset cannot be provided due to license plate blurring issues.
+
 # References
 Vehicle Distance Measurement System:
 https://github.com/kemalkilicaslan/Vehicle-Distance-Measurement-System/blob/main/README.md
